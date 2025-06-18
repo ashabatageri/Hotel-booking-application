@@ -1,0 +1,8 @@
+com\example\hotelbooking\HotelController.class
+com\example\hotelbooking\HotelBookingApplication.class
+com\example\hotelbooking\Hotel.class
+com\example\hotelbooking\WebConfig.class
+com\example\hotelbooking\BookingController.class
+com\example\hotelbooking\HotelRepository.class
+com\example\hotelbooking\Booking.class
+com\example\hotelbooking\BookingRepository.class
